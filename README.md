@@ -1,2 +1,3 @@
 # FastMail
-Um app de mensagens por TCP\IP em Python
+Um App de mensagens baseado no Telegram!
+[Clique aqui para fazer download!](https://github.com/Dsa-Software/FastMail//)
